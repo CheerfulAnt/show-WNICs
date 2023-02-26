@@ -3,7 +3,7 @@
 # Description: Script that shows information about active WNICs (network interface name, driver, type of bus, chipset).
 #              Tested on Linux version 5.10.0-kali9-amd64.
 # Usage: shoWnics.sh
-# Author: gaznick - katoda.pl - gaznick@katoda.pl
+# Author: CheerfulAnt@outlook.com
 # Version: 1.0
 # Date: 14 December 2021 - 20:00 (UTC+02:00)
 
